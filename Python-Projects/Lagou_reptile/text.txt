@@ -1,0 +1,2 @@
+1.拉勾网爬取信息需要先对原网页referere取得cookie再利用其去访问ajax页面
+2.get() 函数返回指定键的值，如果值不在字典中返回默认值。 字典(Dictionary) get()方法
