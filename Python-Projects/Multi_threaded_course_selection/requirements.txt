@@ -149,7 +149,7 @@ steam==1.0.0
 tb-paddle==0.4.0
 tensorboard==1.7.0
 tensorboard-plugin-wit==1.6.0.post2
-tensorflow==1.7.0
+tensorflow==1.15.2
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
