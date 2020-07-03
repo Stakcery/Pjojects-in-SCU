@@ -23,7 +23,7 @@ cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 distlib==0.3.0
-Django==3.0.5
+Django==3.0.7
 django-object-actions==2.0.0
 easydict==1.8
 entrypoints==0.3
