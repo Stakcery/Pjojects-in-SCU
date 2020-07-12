@@ -38,3 +38,10 @@
 - [TOP250](https://github.com/Stakcery/Pjojects-in-SCU/tree/master/Python-Projects/TOP250)
 
   - Description: 第一次按老师要求做的爬虫项目，虽然有点烂，纪念一下啦
+
+
+### JavaWeb项目
+
+- [Book purchase system](https://github.com/Stakcery/Pjojects-in-SCU/tree/master/JavaWeb/practiceWithAtguigu)
+
+  - Description: 第一次按老师要求做的JavaWeb项目，感谢尚硅谷的老师提供的免费视频教学
