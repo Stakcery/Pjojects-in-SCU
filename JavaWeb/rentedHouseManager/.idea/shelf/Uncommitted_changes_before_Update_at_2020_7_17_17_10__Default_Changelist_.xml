@@ -1,0 +1,24 @@
+<changelist name="Uncommitted_changes_before_Update_at_2020_7_17_17_10_[Default_Changelist]" date="1594977018304" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_7_17_17_10_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2020/7/17 17:10 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="target/practicalTraining/WEB-INF/classes/com/renhouse/utils/EmailUtils$1.class" />
+    <option name="AFTER_PATH" value="target/practicalTraining/WEB-INF/classes/com/renhouse/utils/EmailUtils$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_7_17_17_10_[Default_Changelist]/EmailUtils$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/renhouse/utils/EmailUtils$1.class" />
+    <option name="AFTER_PATH" value="target/classes/com/renhouse/utils/EmailUtils$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_7_17_17_10_[Default_Changelist]/EmailUtils$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/com/renhouse/utils/EmailUtils.class" />
+    <option name="AFTER_PATH" value="target/classes/com/renhouse/utils/EmailUtils.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_7_17_17_10_[Default_Changelist]/EmailUtils.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/practicalTraining/WEB-INF/classes/com/renhouse/utils/EmailUtils.class" />
+    <option name="AFTER_PATH" value="target/practicalTraining/WEB-INF/classes/com/renhouse/utils/EmailUtils.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_7_17_17_10_[Default_Changelist]/EmailUtils1.class" />
+  </binary>
+</changelist>

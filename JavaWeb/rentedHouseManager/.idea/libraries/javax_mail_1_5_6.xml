@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.mail-1.5.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/practicalTraining/WEB-INF/lib/javax.mail-1.5.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
