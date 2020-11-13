@@ -50,7 +50,7 @@
 
 ### PHP小玩具
 
-- [Scu_HealthDaily](https://github.com/Stakcery/Pjojects-in-SCU/tree/master/Python-Projects/Scu_HealthDaily)
+- [Scu_HealthDaily](https://github.com/Stakcery/Pjojects-in-SCU/blob/master/PHP-For-Fun/wfw.php)
   - Description: 利用curl与正则实现了疫情期间微服务自动填写接口
 
 
