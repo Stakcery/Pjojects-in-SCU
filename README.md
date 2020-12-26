@@ -8,7 +8,7 @@
 
 - [Skip_cas_for_SCU](https://github.com/Stakcery/Pjojects-in-SCU/tree/master/Python-Projects/Skip_cas_for_SCU)
 
-  - Description: 教务处未修复的小漏洞，可导致利用CAS认证绕过验证码登录教务系统
+  - Description: 利用CAS认证绕过验证码登录教务系统
 
 - [Get_finalexam](https://github.com/Stakcery/Pjojects-in-SCU/tree/master/Python-Projects/Get_finalexam)
 
@@ -28,7 +28,7 @@
   
 - [Multi_threaded_course_selection](https://github.com/Stakcery/Pjojects-in-SCU/tree/master/Python-Projects/Multi_threaded_course_selection)
 
-  - Description: 四川大学的多线程抢课脚本，终于有好课上了呢
+  - Description: 四川大学的多线程抢课脚本(已发现同学滥用故下架)
 
 - [Scu_HealthDaily](https://github.com/Stakcery/Pjojects-in-SCU/tree/master/Python-Projects/Scu_HealthDaily)
 - Description: 新冠疫情期间写的每日健康报自动填写
