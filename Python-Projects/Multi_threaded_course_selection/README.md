@@ -1,4 +1,4 @@
-# Multi-threaded-course-selection(已发现同学滥用故下架)
+# Multi-threaded-course-selection(发现同学滥用已下架)
 Multi-threaded course selection for SCU
 
 由Y4tacker独立编写
